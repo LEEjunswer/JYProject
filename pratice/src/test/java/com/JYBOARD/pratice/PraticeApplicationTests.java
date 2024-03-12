@@ -1,10 +1,10 @@
-package com.BoardProject.JYBoard;
+package com.JYBOARD.pratice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JyBoardApplicationTests {
+class PraticeApplicationTests {
 
 	@Test
 	void contextLoads() {

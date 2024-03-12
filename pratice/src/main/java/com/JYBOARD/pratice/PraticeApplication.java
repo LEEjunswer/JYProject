@@ -1,13 +1,13 @@
-package com.BoardProject.JYBoard;
+package com.JYBOARD.pratice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JyBoardApplication {
+public class PraticeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JyBoardApplication.class, args);
+		SpringApplication.run(PraticeApplication.class, args);
 	}
 
 }
